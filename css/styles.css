@@ -11497,6 +11497,18 @@ html {
   }
 }
 
+.reference {
+  text-align: left;
+  margin: 0in;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-family: "Times New Roman",serif;
+  margin-left: .5in;
+  text-indent: -.5in;
+  line-height: 250%;
+}
+
+
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
